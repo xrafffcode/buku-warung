@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/drawable-v24/list.xml" value="0.28615384615384615" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/drawable-v24/rectangle_form.xml" value="0.2638888888888889" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.290625" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.26944444444444443" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/layout/activity_add.xml" value="0.264" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/layout/activity_splash.xml" value="0.1334853090172239" />
+        <entry key="..\:/Android Apk/BukuWarung/app/src/main/res/layout/list_barang.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
